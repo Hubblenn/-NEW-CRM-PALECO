@@ -38,7 +38,7 @@
         <section class="w-full md:w-[55%] p-8 md:p-12 flex flex-col justify-center" aria-label="Portal Selection">
             
             <header class="mb-8">
-                <h2 class="text-2xl font-bold text-slate-800 tracking-tight">Select Your Portal</h2>
+                <h2 class="text-2xl font-bold text-slate-800 tracking-tight">Select Your Role</h2>
                 <p class="text-sm text-slate-500 mt-1">Choose your workspace to proceed to login.</p>
             </header>
 
